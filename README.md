@@ -28,8 +28,8 @@ Atualmente, trabalho com testes web automatizados, mas em meus estudos estou obt
 
 | Projeto | Descrição |
 |--------|-----------|
-| [Automacao-API](https://github.com/mattheussm/Automacao-API) – Exemplo prático de automação usando CI/CD
-| [mobileproject](https://github.com/mattheussm/mobileproject) – Exemplo prático de automação mobile utilizando appium
+| [Automacao-API](https://github.com/mattheussm/Automacao-API) | Exemplo prático de automação usando CI/CD
+| [mobileproject](https://github.com/mattheussm/mobileproject) | Exemplo prático de automação mobile utilizando appium
 
 ---
 
